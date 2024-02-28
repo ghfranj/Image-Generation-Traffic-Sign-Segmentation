@@ -21,5 +21,7 @@ The quality of segmentation is assessed using the metrics IoU, Precision, Recall
 ~~~
 !python tools/train.py {config}
 ~~~
+
 4- Example of training results:
+
 ![image](https://github.com/ghfranj/Image-Generation-Traffic-Sign-Segmentation/assets/98123238/5830578b-c778-4244-b455-2f4e00420f6e)
